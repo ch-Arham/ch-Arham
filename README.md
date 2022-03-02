@@ -1,4 +1,4 @@
-### Hey Arham Khawar here 👋
+### Hey! Arham Khawar here 👋
 
 ---
 
@@ -29,7 +29,7 @@ I am a Full-stack Web Developer who is exploring, facilitating the world with my
         <img src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" width="160">
     </td>
      <td align='center' width="190">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
@@ -40,7 +40,7 @@ I am a Full-stack Web Developer who is exploring, facilitating the world with my
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="60" height="40">
+        <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"  width="60">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
@@ -57,7 +57,7 @@ I am a Full-stack Web Developer who is exploring, facilitating the world with my
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="40" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="60">
     </td>
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
