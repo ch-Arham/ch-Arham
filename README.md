@@ -79,6 +79,9 @@ I am a Full-stack Web Developer who is exploring, facilitating the world with my
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="60">
     </td>
+ <td align='center'>
+        <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" width="60" title="Solidity" >
+    </td>
     
     
 </tr>
