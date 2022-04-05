@@ -79,10 +79,15 @@ I am a Full-stack Web Developer who is exploring, facilitating the world with my
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="60">
     </td>
- <td align='center'>
-        <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" width="60" title="Solidity" >
+ <td align='center' title="Solidity">
+        <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" width="60" >
     </td>
-    
+ <td align='center' title="Sanity">
+        <img src="https://seeklogo.com/images/S/sanity-logo-36BBB4BF3A-seeklogo.com.png" width="140" >
+    </td>
+  <td align='center' title="thirdweb">
+        <img src="https://pbs.twimg.com/profile_images/1455238767321784325/Xi_Xwzwg_400x400.jpg" width="120" height="60" >
+    </td>
     
 </tr>
 
