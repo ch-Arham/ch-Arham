@@ -103,17 +103,7 @@ I am a Full-stack Web Developer who is exploring, facilitating the world with my
 ### Other Languages I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
 
----
 
-
-
-
-
-[![Arham's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ch-Arham&theme=xcode)](https://github.com/ch-Arham)
-
-<br/>
-
----
 
 <br/>
 
