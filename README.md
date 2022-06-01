@@ -86,9 +86,19 @@ I am a Full-stack Web Developer who is exploring, facilitating the world with my
  <td align='center' title="Sanity">
         <img src="https://seeklogo.com/images/S/sanity-logo-36BBB4BF3A-seeklogo.com.png" width="140" >
     </td>
-  <td align='center' title="thirdweb">
-        <img src="https://pbs.twimg.com/profile_images/1455238767321784325/Xi_Xwzwg_400x400.jpg" width="120" height="60" >
+  <td align='center' title="Truffle Suite">
+        <img src="https://trufflesuite.com/assets/logo.png" width="60" height="60" >
     </td>
+    
+</tr>
+ <tr>
+    <td align='center' title="Ganache">
+        <img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" width="60">
+    </td>
+   <td align='center' title="Chai">
+        <img src="https://e7.pngegg.com/pngimages/626/247/png-clipart-mocha-javascript-node-js-test-driven-development-assertion-chai-sheng-miscellaneous-text.png" width="60">
+    </td>
+    
     
 </tr>
 
