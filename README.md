@@ -12,7 +12,7 @@ I am a Full-Stack Web Developer who is exploring, facilitating the world with my
  
  
  
- 💬 Ask me about MERN Stack and Decentralized Application Development, and Tech-related stuff.
+ 💬 Ask me about MERN Stack, Decentralized Application Development, and Tech-related stuff.
 
 
 ---
