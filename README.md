@@ -3,7 +3,7 @@
 
 ---
 
-I am a Full-Stack Web Developer who is exploring, facilitating the world with my contributions.
+I am a Full-Stack Web Developer who is exploring and facilitating the world with my contributions.
  
  
  
