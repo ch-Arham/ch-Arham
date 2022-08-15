@@ -7,7 +7,7 @@ I am a Full-Stack Web Developer who is exploring and facilitating the world with
  
  
  
- 🌱 I’m currently working in MERN stack and developing Blockchain Applications.
+ 🌱 I’m currently working in MERN stack and Blockchain Applications.
  
  
  
