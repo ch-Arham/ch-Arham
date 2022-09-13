@@ -99,6 +99,10 @@ I am a Full-Stack Web Developer who is exploring and facilitating the world with
         <img src="https://e7.pngegg.com/pngimages/626/247/png-clipart-mocha-javascript-node-js-test-driven-development-assertion-chai-sheng-miscellaneous-text.png" width="60">
     </td>
     
+   <td align='center' title="Truffle Suite">
+        <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="60" height="60" >
+    </td>
+    
     
 </tr>
 
