@@ -98,8 +98,12 @@ I am a Full-Stack Web Developer who is exploring and facilitating the world with
    <td align='center' title="Chai">
         <img src="https://e7.pngegg.com/pngimages/626/247/png-clipart-mocha-javascript-node-js-test-driven-development-assertion-chai-sheng-miscellaneous-text.png" width="60">
     </td>
-    
-   <td align='center' title="Truffle Suite">
+   
+   <td align='center' title="Hardhat">
+        <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" height="60" >
+    </td>
+  
+   <td align='center' title="TypeScript">
         <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="60" height="60" >
     </td>
     
