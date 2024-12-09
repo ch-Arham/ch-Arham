@@ -5,7 +5,7 @@
 
 I am a Full-Stack Web Developer who is exploring and facilitating the world with my contributions.
  
-🔭 I’m currently working on full stack web and mobile applications<br>🌱 I’m currently learning Spring Boot<br>💬 Ask me about: <br>- Front-end development using React, and NextJS<br>- Backend development using Sanity.io Node, Express, and Firebase<br>- Smart Contracts using Solidity<br>- Decentralized Blockchain Applications<br>- Mobile application development using React Native
+🔭 I’m currently working on full stack web and mobile applications<br>🌱 I’m currently learning C#<br>💬 Ask me about: <br>- Front-end development using React, and NextJS<br>- Backend development using Sanity.io Node, Express, and Firebase<br>- Smart Contracts using Solidity<br>- Decentralized Blockchain Applications<br>- Mobile application development using React Native
 
 
 ---
